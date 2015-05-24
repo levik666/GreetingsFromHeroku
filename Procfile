@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/greetings-1.0-SNAPSHOT.one-jar.jar
+web: java -Dserver.port=$PORT -jar target/com.levik.greetings-1.0-SNAPSHOT.one-jar.jar
